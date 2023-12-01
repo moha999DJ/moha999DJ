@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Djeouadi</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
-</div>
+![zih](https://github.com/moha999DJ/moha999DJ/assets/69479417/9637d730-8d55-44f9-9f9b-1be24b7ca5f1)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moha999dj&label=Profile%20views&color=0e75b6&style=flat" alt="moha999dj" /> </p>
 
